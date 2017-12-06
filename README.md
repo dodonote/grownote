@@ -2,6 +2,23 @@
 每日成长笔记
 
 
+
+python 爬虫项目
+
+抓取地址列表：https://github.com/facert/awesome-spider
+
+简单：自如实时房源提醒、网易云音乐
+
+中等：链家、京东商品+评论、今日头条网易腾讯等新闻、github trending、新闻监控、前程无忧Python招聘岗位信息爬取分析、Shadowsocks 账号爬虫
+网易新闻（mongo）
+
+tumblr 多线程、天猫双12爬虫、Tmall 女性文胸尺码爬虫、电影网站、乌云公开漏洞
+
+高级内容：https://github.com/yijingping/unicrawler 分布式抓取框架
+https://github.com/bowenpay/wechat-spider 公众号抓取
+微博主题搜索分析
+知乎妹子
+
     2017-11-26
 
 # 唐古拉山脉 #
